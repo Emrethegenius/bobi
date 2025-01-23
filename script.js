@@ -114,7 +114,7 @@ function handleTimeout() {
 const questions = [
     {
         question: "Where did the first manned powered flight take place?",
-        answer: [35.2320, -75.6211],
+        answer: [78.936137, 44.538326],
         name: "Kitty Hawk, North Carolina, USA",
         image: "images/wright_flyer.jpg",
         info: "On December 17, 1903, the Wright brothers achieved the first manned powered flight in Kitty Hawk with their Wright Flyer."
